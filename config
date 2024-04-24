@@ -1,0 +1,9 @@
+- Abrir Powershell ou CMD
+    https://tecnoblog.net/responde/7-maneiras-de-abrir-o-prompt-de-comando-no-windows-10-e-11/
+
+- dir C:\\Usuário\\Larissa\\larissa-hackathon
+- git init
+- git add .
+- git commit -m 'Primeiro commit'
+- git remote add origin https://github.com/larissfg/hackathonhiper
+- git push -u origin main
